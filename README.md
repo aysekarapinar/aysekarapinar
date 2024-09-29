@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java, C#,**
 
-- 💬 Ask me about **Python, Postman,**
+- 💬 Ask me about **Python, Postman**
 
 - 📫 How to reach me **ayseozlemkarapinar28@gmail.com**
 
