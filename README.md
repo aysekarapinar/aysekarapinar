@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayşe Karapinar</h1>
+<h1 align="center">Hi, I'm Ayşe Karapinar 👋</h1>
 <h3 align="center">A passionate Software Tester from Turkey</h3>
 
 - 🌱 I’m currently learning **Java, C#,**
